@@ -6,7 +6,7 @@ This is the repo for the IT3320E course assignment. The task is to take part in 
 
 ### Prerequisites
 
-The Google Drive link for the model checkpoint is here: [link](https://drive.google.com/file/d/1JMfPks0fD2e2sb24r68KwGIuf3fpzf-a/view?usp=drive_link)
+The Google Drive link for the model checkpoint is here: [link](https://drive.google.com/file/d/1JMfPks0fD2e2sb24r68KwGIuf3fpzf-a/view?usp=drive_link).
 The checkpoint should be put directly inside the src/ folder
 
 ## Usage <a name = "usage"></a>
